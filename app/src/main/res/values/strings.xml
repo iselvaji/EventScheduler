@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">EventScheduler</string>
+    <string name="add">Add</string>
+
+    <string name="err_details_required">Please provide required details</string>
+
+    <string name="err_event_end_time">Event End Time should be grater than Start time</string>
+    <string name="err_event_past">Events can not be scheduled in the past. Please choose the different date/time</string>
+    <string name="err_event_overlapping">Events are overlapping. Please choose the different date/time</string>
+
+    <string name="events_empty">Events not available. Please schedule..</string>
+
+    <string name="name">Event Name</string>
+    <string name="date">Date</string>
+    <string name="create">Create</string>
+    <string name="startTime">StarTime</string>
+    <string name="endTime">EndTime</string>
+
+</resources>
